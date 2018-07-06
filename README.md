@@ -7,7 +7,7 @@ N/A.
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
-  <li>Skeleton CSS Framework</li>
+  <li>Skeleton CSS Framework (http://getskeleton.com/)</li>
   <li>FontAwesome</li>
   <li>Google Font API</li>
   <li>Visual Studio Code</li>
