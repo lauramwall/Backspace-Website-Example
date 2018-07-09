@@ -1,6 +1,6 @@
 # Backspace Website Example (https://lauramwall.github.io/Backspace-Website-Example/)
 
-A small project using the Skeleton UI Kit framework. This project uses less than 150 lines of HTML and ~200 lines of CSS.
+A small project using the Skeleton UI framework. This project uses less than 150 lines of HTML and ~200 lines of CSS.
 
 # Technologies Used
 
@@ -19,5 +19,5 @@ N/A.
 
 # Credits
 
-N/A.
+This framework was discovered from UI Goodies, <a href="https://uigoodies.com/frameworks.html">here</a>.
 
