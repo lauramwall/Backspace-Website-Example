@@ -19,5 +19,5 @@ N/A.
 
 # Credits
 
-This framework was discovered from UI Goodies, <a href="https://uigoodies.com/frameworks.html">here</a>.
+This framework was discovered on UI Goodies, <a href="https://uigoodies.com/frameworks.html">here</a>.
 
