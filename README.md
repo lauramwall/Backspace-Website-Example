@@ -1,4 +1,4 @@
-# Backspace Website Example (https://lauramwall.github.io/Backspace-Website-Example/)
+# Backspace Website Example (<a href="https://lauramwall.github.io/Backspace-Website-Example/" target="_blank">LINK</a>)
 
 A small project using the Skeleton UI framework. This project uses less than 150 lines of HTML and ~200 lines of CSS.
 
